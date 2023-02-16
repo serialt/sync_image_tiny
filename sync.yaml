@@ -1,3 +1,7 @@
+k8s.gcr.io:
+  images:
+    defaultbackend-amd64: 
+     - '1.5'
 docker.io:
   images:
     runmymind/docker-android-sdk: 
