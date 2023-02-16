@@ -1,8 +1,0 @@
-gcr.io:
-  images:
-    kaniko-project/executor:
-    - v1.8.1
-k8s.gcr.io:
-  images:
-    defaultbackend-amd64:
-    - '1.5'

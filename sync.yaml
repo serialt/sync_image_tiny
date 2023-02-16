@@ -1,0 +1,7 @@
+docker.io:
+  images:
+    runmymind/docker-android-sdk: 
+      - 'master'
+      - 'ubuntu-standalone'
+      - 'ubuntu-standalone-cba7888e'
+      - 'ubuntu-standalone-1c71c273'

@@ -1,4 +1,0 @@
-last: 5
-images:
-  docker.io:
-    - runmymind/docker-android-sdk
